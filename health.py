@@ -18,6 +18,7 @@ avg_billing = round(data['Billing Amount'].mean(), 2)
 
 # Creating web app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 # App layout and Design
 app.layout = dbc.Container([
