@@ -55,7 +55,7 @@ healthCare/
 
 ## Screenshots
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png) <!-- Add screenshot if available -->
+![Dashboard Screenshot](assets/dashAppScreenshot.png) 
 
 ## License
 
