@@ -38,7 +38,7 @@ This dashboard provides insights into patient demographics, medical conditions, 
    ```bash
    python health.py
    ```
-   - The app will be available at [http://127.0.0.1:8050](http://127.0.0.1:8050).
+   - The app will be available at (https://healthcare-dash-app.onrender.com/).
 
 ## File Structure
 
